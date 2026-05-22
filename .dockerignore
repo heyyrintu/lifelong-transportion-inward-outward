@@ -1,0 +1,9 @@
+# Keep the Docker build context small — only the webapp + nginx config are needed.
+.git
+.gitignore
+*.xlsx
+*.csv
+*.json
+*.docx
+*.pdf
+~$*
